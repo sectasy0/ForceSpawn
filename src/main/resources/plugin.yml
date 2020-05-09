@@ -1,0 +1,5 @@
+name: ForceSpawn
+version: ${project.version}
+main: wr4ith5.paper.ForceSpawn
+api-version: 1.13
+authors: [wr4ith5]
